@@ -29,6 +29,5 @@ class MainActivity : AppCompatActivity() {
             val displaySettingsActivity = Intent(this, SettingsActivity::class.java)
             startActivity(displaySettingsActivity)
         }
-
     }
 }
